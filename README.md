@@ -1,0 +1,1 @@
+# Partage-de-biens-d-une-colonie-spatiale
