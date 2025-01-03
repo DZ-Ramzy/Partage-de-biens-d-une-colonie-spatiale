@@ -19,4 +19,4 @@ Ce projet consiste à développer un programme permettant de gérer la colonie s
 ## Contribution :
 - [Maël LECENE](https://github.com/Mael-up-citer)
 - [Céline YE](https://github.com/xilinye)
-- [Ramzy CHIBANI](https://github.com/DZ-Ramzy).
+- [Ramzy CHIBANI](https://github.com/DZ-Ramzy)
